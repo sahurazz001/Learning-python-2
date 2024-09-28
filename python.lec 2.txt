@@ -1,0 +1,127 @@
+
+# For (Range)................
+
+# for ra in range(2,20,3):
+#     print(ra)
+
+# for rk in range(1,20,2):
+#     print(rk)
+
+
+
+# num = [1,4,9,16,25,36,49,64,81,100]
+
+# i = 0
+
+# while i<=len(num):
+#     print(num)
+#     i +=1
+
+# num = (1,4,9,16,25,36,49,64,81,10)
+
+# x = 25
+# y = 0
+
+# while y <=len(num):
+#     if(num[y]==x):
+#         print(y)
+#     y+=1
+# for r in range(100,1,-1):
+#     print(r)
+
+# 
+
+# r =int(input("Enter a first number"))
+
+# for ka in range(1,11):
+#     print(r*ka)
+
+# function and recurtion..............
+
+# def raj(a,b):
+#     sum = a+b
+#     print(sum)
+
+# raj (10,20)    
+
+# def cal(a,b,c):
+#     sum= a+b+c
+#     print(sum)
+
+# cal (10,50,30)    
+
+# def rok(a,b):
+#     return(a+b)
+
+# sum =rok (10,20)
+# print(sum)
+
+# def rk(b, v):
+#     return(b+v)
+
+# sum = rk (10,50)
+# print(sum)
+
+# def print_hello():
+#     print("hello world")
+
+
+# rsj =print_hello()
+# print(rsj)
+
+# def raj(a,b,c):
+#     return((a+b+c)/6)
+
+# avr =raj (154,154,154)
+# print(avr)
+
+# listr= ["sarna","wadrafnagar","Ambikapur","raghunathnagar"]
+
+# def print_len(list):
+#     print(len(list))
+
+# print_len(listr)    
+
+# heros = ["raj","suman","atish","satish"]
+
+# def raj(rajk):
+#     print(len(rajk))
+
+# def raj(hero):   
+#     for item in hero:
+#         print(item,end="\n")
+# raj(heros)    
+
+# def raj(usd_val):
+#     inr = usd_val * 83
+#     print(usd_val,"usd=",inr,"inr ")
+
+# raj(2)    
+
+# def raj(usd_value):
+#     inr = usd_value * 83
+#     print(usd_value,"usd =",inr,"inr")
+
+# raj(1)
+
+# a = int(input("Enter a number"))
+
+# def raj(r):
+#     k = r%2
+#     if(k==0):
+#         print("ODD")
+#     else:
+#         print("Even")   
+
+# raj(a)        
+        
+
+# .........Recursion..............................
+
+# def raj(n):
+#     if(n==0):
+#         return
+#     print(n)
+#     raj(n-1)
+
+# raj(5)    
